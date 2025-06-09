@@ -1,2 +1,7 @@
 print("hi")
 print("nice to meet you!")
+print("I am a Python script.")
+print("Let's do something interesting together.")
+print("What would you like to do today?")
+print("I can help you with various tasks.")
+print("Feel free to ask me anything.")
